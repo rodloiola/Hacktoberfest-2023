@@ -5,7 +5,7 @@
   </p>
 </div>
 
-Participação no Hacktoberfest 2023
+Participação no Hacktoberfest 2023, projeto de um site de livro feito em HTML e CSS
 
 ### Objetivos
 
