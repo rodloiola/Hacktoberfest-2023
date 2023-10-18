@@ -14,3 +14,5 @@ Participação no Hacktoberfest 2023, projeto de um site de livro feito em HTML 
 ##
 
 #Hacktoberfest
+
+![image](https://github.com/JVAS42/alura-books/assets/61116930/5485a851-b76c-4006-a99c-a0ad3f31b5cd)
